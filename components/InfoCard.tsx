@@ -158,7 +158,7 @@ export const InfoCard = () => {
               <p className={`text-sm leading-relaxed ${
                 theme === 'dark' ? 'text-gray-300' : 'text-gray-700'
               }`}>
-                This was a challenge and just a quick fun project. Everything here is not being sent anywhere and is just for demo purposes. If you want to reach out to me, feel free to use the contact links below!
+                This was a challenge and just a quick fun project. Everything here is not being sent anywhere and is just for demo purposes. If you want to reach out to me, feel free to use the contact links below! DISCLAIMER!! If the AI does not work, it is because it has been rate limited as this is a free cost project, if the ai does not work, try again later.
               </p>
 
               {/* Links */}
