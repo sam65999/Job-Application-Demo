@@ -36,17 +36,6 @@ This folder contains all the frontend/UI code for HireFlow without any backend A
 - Server-side logic
 - Environment variables with sensitive data
 
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 **Note:** The AI assistant and other backend features will not work without the API routes. This is frontend-only code for learning and demonstration purposes.
 
